@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Zuenda25
+- 👀 Fullstack Web Dev
+- 📫 zuenda25@gmail.com
